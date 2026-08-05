@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Drei!
 
-🎓 **BSIT Student** | 💻 Aspiring Software Developer | 🇵🇭 Philippines
+🎓 **BSIT Student** | 💻 Aspiring Software Developer
 
 I'm currently learning software development by building projects, exploring new technologies, and improving my programming skills every day.
 
